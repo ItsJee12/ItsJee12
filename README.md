@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**ItsJee12/ItsJee12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Flutter Developer | Dart
+
+IT graduate (2024) and Flutter developer interested in building practical, user-focused mobile applications.
+
+### 🛠️ Tech Stack
+- **Languages:** Dart, JavaScript, Python
+- **Mobile:** Flutter
+- **State Management:** Riverpod
+- **Database:** Isar, SQLite
+- **Backend:** Supabase
+- **Tools:** Git, GitHub
+
+### 🚀 Featured Projects
+
+**My Moments**
+- Offline-first personal journaling and mood-tracking app.
+- Built with Flutter, Riverpod, and Isar.
+
+**Halaqati**
+- Quran circles management application.
+- Built with Flutter, Riverpod, Drift, and Supabase.
+- Currently under development.
+
+### 📫 Connect with Me
+- GitHub: [@ItsJee12](https://github.com/ItsJee12)
