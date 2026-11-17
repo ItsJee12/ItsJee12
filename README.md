@@ -17,10 +17,16 @@ IT graduate (2024) and Flutter developer interested in building practical, user-
 ### 🚀 Featured Projects
 
 **My Moments**
+
+![My Moments Showcase](image/my_moments_showcase.jpg)
+
 - Offline-first personal journaling and mood-tracking app.
 - Built with Flutter, Riverpod, and Isar.
 
-**Halaqati**
+**Halaqati | حلقتي**
+
+![Halaqati Showcase](image/halaqati_showcase.png)
+
 - Quran circles management application.
 - Built with Flutter, Riverpod, Drift, and Supabase.
 - Currently under development.
